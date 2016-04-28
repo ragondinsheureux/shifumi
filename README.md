@@ -107,7 +107,7 @@ Des mots simples, des dessins et le tour est joué !
 Pour que vos actions soit comprises et relayées, il vous faut un petit manifeste permettant de laisser votre trace.
 Dans notre cas, nous avons donné à chaque participant la petite carte suivante :
 
-
+![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/cartes_felicitations.jpg)
 
 
 ## Aller plus loin : diffusion
