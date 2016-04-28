@@ -1,6 +1,8 @@
 # Shifumi Cup
 
-L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire intérragir les passants entre eux.
+L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire intéragir les passants entre eux.
+
+Le tutoriel n'est pas encore prêt !
 
 ## Sommaire
 
@@ -26,9 +28,6 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 ## Ressources & matériel
 ### Feuilles de règles
 ### Manifeste de l'action
-### 
-
-
 
 ## Aller plus loin : diffusion
 
