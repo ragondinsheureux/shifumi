@@ -56,6 +56,10 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace. 
 
+![orga](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/tableauOrga.jpg)
+
+Une installation physique permet de fixer une zone et d'éviter de s'éparpiller. Cela rajoute également un protocole qui permet d'aider a intégrer le participant a l'action.
+
 ### Préparer le discours
 
 Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
