@@ -112,6 +112,13 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 Pour diffuser au mieux votre action, n'hésitez pas à parler de vous sur les réseaux sociaux tels que Facebook, Twitter,...
 
 ### Twitter
+
 Retrouvez-nous les Ragondins Heureux : @ragondinheureux
 
 ### Vidéo
+
+Afin de voir l'impact de votre action sur les passants, nous vous conseillons de filmer votre travail avec les passants. 
+La diffusion permettra de donner une autre dimension à votre travail. 
+Pour cela, vous pouvez utiliser Youtube, Vine, Snapchat... : de nombreuses possibilités s'offrent à vous.
+
+C'est parti ! A vous de jouer ;-) 
