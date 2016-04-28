@@ -6,6 +6,8 @@ L'intervention "Shifumi Cup" est une action qui a pour objectif de faire interag
 
 > Si vous trouvez une coquille, souhaitez proposer une amélioration ou tout simplement participer, n'hésitez pas à utiliser les *"issue"* ou même à faire un *"pull request"* !
 
+Page du projet : [ragondinsheureux.github.io](https://ragondinsheureux.github.io)
+
 ## Sommaire
 
 - [Méthode et organisation](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#méthodes-et-organisation)
@@ -17,6 +19,7 @@ L'intervention "Shifumi Cup" est une action qui a pour objectif de faire interag
 
 
 ## Méthodes et organisation
+
 La Shifumi Cup s'organise en plusieurs temps :
  - La recherche des participants 
  - Un match, qui prend place sur un "ring" mis en place pour l'occasion.
@@ -171,8 +174,8 @@ C'est parti ! A vous de jouer ;-)
 Quelques élements que vous pouvez réutiliser : 
  
  - [Carte de félicitations]() 
- - [Patron d'origami]() ([voir le tuto]())
- - [Feuille de règles]()
+ - [Patron d'origami](https://github.com/ragondinsheureux/shifumi/raw/master/ressources/fleur-ragondin.pdf)
+ - [Feuille de règles (bientôt)]()
 
 Voici quelques sources qui nous ont inspiré pour ce projet :
 
