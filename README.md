@@ -33,7 +33,14 @@ L'objectif du jeu est de créer une interaction amusante entre deux personnes qu
 
 
 ### Positions
+
 ![Alt Text](https://github.com/ragondinsheureux/shifumi/raw/master/images/positions_shifumi.jpeg)
+
+Pour jouer au Shifumi Il y a trois possibilités : 
+Pierre
+Feuille 
+Ciseaux 
+Comme on peut le voir sur cette photoLa pierre bat les ciseaux qui coupent la feuille et qui emrobent la pierre. 
 
 ## Préparation
 
@@ -42,7 +49,16 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 ### S'inscrire dans l'espace
 
+
 ### Préparer le discours
+
+Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
+Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra de plonger les passants dans l’univers de votre action.
+> Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi . Les participants ont fait une intoxication alimentaire: On a besoin de vous.”
+
+
+
+
 
 ### Partager les rôles
 
@@ -58,7 +74,8 @@ Pour cela, nous avons défini des rôles qui peuvent évoluer en fonction de l'a
 
 ### Trouver un endroit 
 
-Choisir l'endroit ou s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
+Choisir l'endroit où s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
+
 Pour trouver l'emplacement idéal, il faut prendre en compte :
  
  - L'encombrement : nous ne somme pas la pour bloquer le passage et gêner les passants pressé 
