@@ -93,7 +93,8 @@ Pour trouver l'emplacement idéal, il faut prendre en compte :
 
 Afin de viser un maximum de personnes sans trop gêner le passage, il faut penser à l'horaire de l'action. 
 Selon la période de la journée, les gens sont plus ou moins réceptifs aux actions qui vont les prendre à partie.
-En effet, il faut par exemple éviter les entrées/sorties des lieux de travail : les gens seront préoccupés de ne pas arriver en retard. 
+En effet, il faut par exemple éviter les entrées/sorties des lieux de travail : les gens seront préoccupés de ne pas arriver en retard.
+
 De même, éviter les lieux de sécurité comme devant un commissariat, une base militaire, car un rassemblement pourrait être mal venu (sécurité). 
 Ainsi, un endroit neutre de la ville sera votre meilleur atout: commerce, parcs, places ...
 
