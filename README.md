@@ -4,6 +4,7 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 
 **Désolé, le tutoriel n'est pas encore prêt !**
 
+
 ## Sommaire
 
 - [Méthode et organisation](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#méthodes-et-organisation)
@@ -21,7 +22,7 @@ La Shifumi Cup s'organise en plusieurs temps :
 Pour faciliter ces trois étapes, il convient de préparer un peu les choses.
  
  
-## Régles du jeu
+## Règles du jeu
 Le shifumi, ou pierre feuille ciseaux à des règles très simples, que la plupart des gens connaissent déjà.
 Pour garder les choses faciles, nous utilisons les règles de bases : 
 > Pas de positions exotiques tel que "puit" ou "lézard" ;) !
@@ -32,12 +33,13 @@ L'objectif du jeu est de créer une interaction amusante entre deux personnes qu
 
 
 ### Positions
-
+![Alt Text](https://github.com/ragondinsheureux/shifumi/raw/master/images/positions_shifumi.jpeg)
 
 ## Préparation
 
 Pour faciliter le déroulement et le succès de l'intervention, il est nécessaire de se préparer un petit peu !
 Fluidifier le discours en le préparant, investir l'espace de la ville pour s'ancrer dans le physique 
+
 ### S'inscrire dans l'espace
 
 ### Préparer le discours
@@ -46,15 +48,19 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 Afin de s'organiser au mieux, il faut que les personnes qui organisent sachent quel est leur rôle et où ils doivent se positionner pour ne pas se gêner. 
 Pour cela, nous avons défini des rôles qui peuvent évoluer en fonction de l'activité :
+
 - L'arbitre est situé entre les deux participants et leur explique les règles. De plus c'est lui qui doit créer le lien entre les deux participants en les faisant se présenter mutuellement par leur prénom et un petit salut.
-- Les chasseurs: ils vont chercher les passants pour les faire participer au jeu. Il faut qu'ils arrivent à les interpeller suffisament pour que la personne accepte de jouer le jeu. 
-- Les deux ambianceurs se situent de part et d'autre du ring, afin de motiver les joueurs. L'un d'eux conduit les passants vers le stand d'interview pour ne pas qu'ils repartent juste après le jeu sans connaître l'objectif de l'action.
+- Les chasseurs: ils vont chercher les passants pour les faire participer au jeu. Il faut qu'ils arrivent à les interpeller suffisamment pour que la personne accepte de jouer le jeu. 
+- Les deux "ambianceurs" se situent de part et d'autre du ring, afin de motiver les joueurs. L'un d'eux conduit les passants vers le stand d'interview pour ne pas qu'ils repartent juste après le jeu sans connaître l'objectif de l'action.
 - Le cameraman qui gêre la stand avec les interviews : il filme les interviews que les deux inconnus font l'un de l'autre.
 
 ## Définir le lieu et le moment
+
 ### Trouver un endroit 
+
 Choisir l'endroit ou s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
 Pour trouver l'emplacement idéal, il faut prendre en compte :
+ 
  - L'encombrement : nous ne somme pas la pour bloquer le passage et gêner les passants pressé 
  - 
 
