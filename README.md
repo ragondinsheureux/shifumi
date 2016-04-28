@@ -37,10 +37,11 @@ L'objectif du jeu est de créer une interaction amusante entre deux personnes qu
 ![Alt Text](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/positions_shifumi.jpg)
 
 Pour jouer au Shifumi Il y a trois possibilités : 
-Pierre
-Feuille 
-Ciseaux 
-Comme on peut le voir sur cette photoLa pierre bat les ciseaux qui coupent la feuille et qui emrobent la pierre. 
+- Pierre
+- Feuille 
+- Ciseaux 
+
+Comme on peut le voir sur cette photo la pierre bat les ciseaux qui coupent la feuille et qui emrobent la pierre. 
 
 ## Préparation
 
@@ -49,6 +50,7 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 ### S'inscrire dans l'espace
 
+Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace. --
 
 ### Préparer le discours
 
