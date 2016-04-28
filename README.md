@@ -30,6 +30,8 @@ Pour garder les choses faciles, nous utilisons les règles de bases :
 ### Objectif du jeu
 
 L'objectif du jeu est de créer une interaction amusante entre deux personnes qui ne se connaissent pas. 
+Par interaction nous entendons un échange de mots, de sourires, et d'un bon moment tout en accentuant sur le respect de l'autre. 
+
 
 
 ### Positions
@@ -56,7 +58,7 @@ Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisat
 
 Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
 Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra de plonger les passants dans l’univers de votre action.
-> Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi . Les participants ont fait une intoxication alimentaire: On a besoin de vous.”
+> Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi. Les participants ont fait une intoxication alimentaire: On a besoin de vous pour les remplacer.”
 
 
 ### Partager les rôles
@@ -91,27 +93,32 @@ Afin de viser un maximum de personnes sans trop gêner le passage, il faut pense
 Selon la période de la journée, les gens sont plus ou moins réceptifs aux actions qui vont les prendre à partie.
 En effet, il faut par exemple éviter les heures matinales où les gens se rendent sur leur lieu de travail : ils seront préoccupés de ne pas arriver en retard.
 
-
-
 ## Ressources & matériel
 ### Feuilles de règles
 
 Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne connaissent pas. Par conséquent il est important d'expliquer brievement et clairement les règles sur une feuille ou une pancarte.
+Des mots simples, des dessins et le tour est joué !
 
 ### Manifeste de l'action
 
-Pour que vos actions soit comprises et diffusée, il vous faut un petit manifeste permettant de laisser votre trace.
+Pour que vos actions soit comprises et relayées, il vous faut un petit manifeste permettant de laisser votre trace.
 Dans notre cas, nous avons donné à chaque participant la petite carte suivante :
-
-
-
-
 
 
 
 
 ## Aller plus loin : diffusion
 
+Pour diffuser au mieux votre action, n'hésitez pas à parler de vous sur les réseaux sociaux tels que Facebook, Twitter,...
+
 ### Twitter
 
+Retrouvez-nous les Ragondins Heureux : @ragondinheureux
+
 ### Vidéo
+
+Afin de voir l'impact de votre action sur les passants, nous vous conseillons de filmer votre travail avec les passants. 
+La diffusion permettra de donner une autre dimension à votre travail. 
+Pour cela, vous pouvez utiliser Youtube, Vine, Snapchat... : de nombreuses possibilités s'offrent à vous.
+
+C'est parti ! A vous de jouer ;-) 
