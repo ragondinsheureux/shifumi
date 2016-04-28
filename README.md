@@ -50,18 +50,12 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 ### S'inscrire dans l'espace
 
-Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace.
-
-
-
-
-
+Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace. --
 
 ### Préparer le discours
 
 Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
 Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra de plonger les passants dans l’univers de votre action.
-
 > Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi . Les participants ont fait une intoxication alimentaire: On a besoin de vous.”
 
 
@@ -73,22 +67,24 @@ Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra 
 Afin de s'organiser au mieux, il faut que les personnes qui organisent sachent quel est leur rôle et où ils doivent se positionner pour ne pas se gêner. 
 Pour cela, nous avons défini des rôles qui peuvent évoluer en fonction de l'activité :
 
-- L'arbitre est situé entre les deux participants et leur explique les règles. De plus c'est lui qui doit créer le lien entre les deux participants en les faisant se présenter mutuellement par leur prénom et un petit salut.
-- Les chasseurs: ils vont chercher les passants pour les faire participer au jeu. Il faut qu'ils arrivent à les interpeller suffisamment pour que la personne accepte de jouer le jeu. 
-- Les deux "ambianceurs" se situent de part et d'autre du ring, afin de motiver les joueurs. L'un d'eux conduit les passants vers le stand d'interview pour ne pas qu'ils repartent juste après le jeu sans connaître l'objectif de l'action.
-- Le cameraman qui gêre la stand avec les interviews : il filme les interviews que les deux inconnus font l'un de l'autre.
+- **L'arbitre** est situé entre les deux participants et leur explique les règles. De plus c'est lui qui doit créer le lien entre les deux participants en les faisant se présenter mutuellement par leur prénom et un petit salut.
+- **Les recruteurs**: ils vont chercher les passants pour les faire participer au jeu. Il faut qu'ils arrivent à les interpeller suffisamment pour que la personne accepte de jouer le jeu. 
+- **Le journaliste** qui gêre la stand avec les interviews : il filme ou prend en photo les interviews que les deux inconnus font l'un de l'autre afin de pouvoir communiquer sur l'évènement dans les réseaux sociaux.
+
+- **Les "ambianceurs"** se situent de part et d'autre du ring, afin de motiver les joueurs. L'un d'eux conduit les passants vers le stand d'interview pour ne pas qu'ils repartent juste après le jeu sans connaître l'objectif de l'action.
+
 
 ## Définir le lieu et le moment
 
 ### Trouver un endroit 
 
 Choisir l'endroit où s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
-
 Pour trouver l'emplacement idéal, il faut prendre en compte :
- 
- - L'encombrement : nous ne somme pas la pour bloquer le passage et gêner les passants pressé 
+ - **L'encombrement :** nous ne somme pas la pour bloquer le passage et gêner les passants pressé.
+   > Les places de centre ville, lors d'un marché ou d'une activité qui se prête à la promenade, en bords de plage...
+ - **Le passage :** il vous faut un flux continu assez fournis et divers pour pouvoir espérer avoir suffisament de participants volontaire
  - 
-
+ 
 ### Heure du crime
 
 Afin de viser un maximum de personnes sans trop gêner le passage, il faut penser à l'horaire de l'action. 
@@ -97,8 +93,6 @@ En effet, il faut par exemple éviter les entrées/sorties des lieux de travail 
 
 De même, éviter les lieux de sécurité comme devant un commissariat, une base militaire, car un rassemblement pourrait être mal venu (sécurité). 
 Ainsi, un endroit neutre de la ville sera votre meilleur atout: commerce, parcs, places ...
-
-
 
 ## Ressources & matériel
 ### Feuilles de règles
