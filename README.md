@@ -48,6 +48,11 @@ Afin d'assurer le bon déroulement
 
 ## Définir le lieu et le moment
 ### Trouver un endroit 
+Choisir l'endroit ou s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
+Pour trouver l'emplacement idéal, il faut prendre en compte :
+ - L'encombrement : nous ne somme pas la pour bloquer le passage et gêner les passants pressé 
+ - 
+
 ### Heure du crime
 
 ## Ressources & matériel
