@@ -33,6 +33,12 @@ L'objectif du jeu est de créer une interaction amusante entre deux personnes qu
 
 ### Positions
 
+Pour jouer au Shifumi Il y a trois possibilités : 
+Pierre
+Feuille 
+Ciseaux 
+Comme on peut le voir sur cette photoLa pierre bat les ciseaux qui coupent la feuille et qui emrobent la pierre. 
+
 
 ## Préparation
 
