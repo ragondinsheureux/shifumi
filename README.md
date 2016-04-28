@@ -50,16 +50,13 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 ### S'inscrire dans l'espace
 
-Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace. --
+Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisation pour savoir où nous placer dans l'espace. 
 
 ### Préparer le discours
 
 Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
 Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra de plonger les passants dans l’univers de votre action.
 > Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi . Les participants ont fait une intoxication alimentaire: On a besoin de vous.”
-
-
-
 
 
 ### Partager les rôles
@@ -83,16 +80,17 @@ Pour trouver l'emplacement idéal, il faut prendre en compte :
  - **L'encombrement :** nous ne somme pas la pour bloquer le passage et gêner les passants pressé.
    > Les places de centre ville, lors d'un marché ou d'une activité qui se prête à la promenade, en bords de plage...
  - **Le passage :** il vous faut un flux continu assez fournis et divers pour pouvoir espérer avoir suffisament de participants volontaire
- - 
- 
+ > Attention aux positionnement devant les lieux publics (commissariat, bases militaire,...)
+
+Pour conclure, un endroit neutre de la ville avec beaucoup de passage sera votre meilleur atout: commerce, parcs, places ...
+
 ### Heure du crime
 
 Afin de viser un maximum de personnes sans trop gêner le passage, il faut penser à l'horaire de l'action. 
 Selon la période de la journée, les gens sont plus ou moins réceptifs aux actions qui vont les prendre à partie.
-En effet, il faut par exemple éviter les entrées/sorties des lieux de travail : les gens seront préoccupés de ne pas arriver en retard.
+En effet, il faut par exemple éviter les heures matinales où les gens se rendent sur leur lieu de travail : ils seront préoccupés de ne pas arriver en retard.
 
-De même, éviter les lieux de sécurité comme devant un commissariat, une base militaire, car un rassemblement pourrait être mal venu (sécurité). 
-Ainsi, un endroit neutre de la ville sera votre meilleur atout: commerce, parcs, places ...
+
 
 ## Ressources & matériel
 ### Feuilles de règles
