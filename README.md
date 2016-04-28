@@ -79,7 +79,8 @@ Choisir l'endroit où s'installer pour faire votre intervention peut s'avérer c
 Pour trouver l'emplacement idéal, il faut prendre en compte :
  - **L'encombrement :** nous ne somme pas la pour bloquer le passage et gêner les passants pressé.
    > Les places de centre ville, lors d'un marché ou d'une activité qui se prête à la promenade, en bords de plage...
- - **Le passage :** il vous faut un flux continu assez fournis et divers pour pouvoir espérer avoir suffisament de participants volontaire
+ - **Le passage :** il vous faut un flux continu assez fournis et divers pour pouvoir espérer avoir suffisament de participants volontaires.
+
  > Attention aux positionnement devant les lieux publics (commissariat, bases militaire,...)
 
 Pour conclure, un endroit neutre de la ville avec beaucoup de passage sera votre meilleur atout: commerce, parcs, places ...
