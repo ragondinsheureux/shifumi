@@ -95,7 +95,20 @@ En effet, il faut par exemple éviter les heures matinales où les gens se rende
 
 ## Ressources & matériel
 ### Feuilles de règles
+
+Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne connaissent pas. Par conséquent il est important d'expliquer brievement et clairement les règles sur une feuille ou une pancarte.
+
 ### Manifeste de l'action
+
+Pour que vos actions soit comprises et diffusée, il vous faut un petit manifeste permettant de laisser votre trace.
+Dans notre cas, nous avons donné à chaque participant la petite carte suivante :
+
+
+
+
+
+
+
 
 ## Aller plus loin : diffusion
 
