@@ -2,7 +2,7 @@
 
 ![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/ragondin.png)
 
-L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire interagir les passants entre eux.
+L'intervention Shifumi Cup est une action d'interaction citoyenne qui a pour objectif de faire interagir les passants entre eux.
 
 **Désolé, le tutoriel n'est pas encore prêt !**
 
@@ -25,7 +25,7 @@ Pour faciliter ces trois étapes, il convient de préparer un peu les choses.
  
  
 ## Règles du jeu
-Le shifumi, ou pierre feuille ciseaux à des règles très simples, que la plupart des gens connaissent déjà.
+Le Shifumi, ou pierre feuille ciseaux à des règles simples, que la plupart des gens connaissent déjà.
 Pour garder les choses faciles, nous utilisons les règles de bases : 
 > Pas de positions exotiques tel que "puit" ou "lézard" ;) !
 
@@ -45,7 +45,7 @@ Pour jouer au Shifumi Il y a trois possibilités :
 - Feuille 
 - Ciseaux 
 
-Comme on peut le voir sur cette photo la pierre bat les ciseaux qui coupent la feuille et qui enrobent la pierre. 
+Comme on peut le voir sur cette photo la pierre bât les ciseaux qui coupent la feuille et qui enrobent la pierre. 
 
 ## Préparation
 
@@ -58,7 +58,7 @@ Comme on peut le voir sur cette photo, nous avons établi un schéma d'organisat
 
 ![orga](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/tableauOrga.jpg)
 
-Une installation physique permet de fixer une zone et d'éviter de s'éparpiller. Cela rajoute également un protocole qui permet d'aider a intégrer le participant a l'action.
+Une installation physique permet de fixer une zone et d'éviter de s'éparpiller. Cela rajoute également un protocole qui permet d'aider a intégrer le participant à l'action.
 
 ### Préparer le discours
 
@@ -86,10 +86,10 @@ Pour cela, nous avons défini des rôles qui peuvent évoluer en fonction de l'a
 Choisir l'endroit où s'installer pour faire votre intervention peut s'avérer compliqué pour plusieurs raisons.
 Pour trouver l'emplacement idéal, il faut prendre en compte :
  
- - **L'encombrement :** nous ne somme pas la pour bloquer le passage et gêner les passants pressé.
+ - **L'encombrement :** nous ne somme pas là pour bloquer le passage et gêner les passants pressés.
    > Les places de centre ville, lors d'un marché ou d'une activité qui se prête à la promenade, en bords de plage...
    
- - **Le passage :** il vous faut un flux continu assez fournis et divers pour pouvoir espérer avoir suffisament de participants volontaires.
+ - **Le passage :** il vous faut un flux continu assez fourni et divers pour pouvoir espérer avoir suffisament de participants volontaires.
    > Attention aux positionnement devant les lieux publics (commissariat, bases militaire,...)
 
 Pour conclure, un endroit neutre de la ville avec beaucoup de passage sera votre meilleur atout: commerce, parcs, places ...
@@ -98,12 +98,12 @@ Pour conclure, un endroit neutre de la ville avec beaucoup de passage sera votre
 
 Afin de viser un maximum de personnes sans trop gêner le passage, il faut penser à l'horaire de l'action. 
 Selon la période de la journée, les gens sont plus ou moins réceptifs aux actions qui vont les prendre à partie.
-En effet, il faut par exemple éviter les heures matinales où les gens se rendent sur leur lieu de travail : ils seront préoccupés de ne pas arriver en retard.
+En effet, il faut par exemple éviter les heures matinales où les gens se rendent sur leur lieu de travail : ils seront préoccupés à l'idée d'arriver en retard.
 
 ## Ressources & matériel
 ### Feuilles de règles
 
-Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne connaissent pas. 
+Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne le connaissent pas. 
 Par conséquent il est important d'expliquer brievement et clairement les règles sur une feuille ou une pancarte.
 Des mots simples, des dessins et le tour est joué !
 
@@ -120,16 +120,19 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 
 Le matériel indispensable pour vos actions :
 - signes distinctifs pour les organisateurs ( repérage dans la foule)
+
+> Bandeaux rouges pour les Ragondins Heureux ! :)
+
 - pancartes
 - craies
+
 Si possible : 
 - caméra / micro : pour saisir la réaction des personnes
 - flèches : pour susciter la curiosité des passants
 
 Afin de limiter les frais des actions, vous pouvez fabriquer vous mêmes certains accessoires. 
 Pour réaliser l'interview, il peut-être utile d'avoir un pupitre ou une table: rien de bien compliqué avec du carton récupéré ;-)
-De même vous voulez distribuer des petites surprises aux passants : pensez aux origamis, ou à des petits pliages.
-
+De même si vous voulez distribuer des petites surprises aux passants : pensez aux origamis, ou à des petits pliages.
 
 Pensez à des détails comme le vent, il peut rapidement devenir un paramètre ennuyant: consolidez vos pancartes !
 
