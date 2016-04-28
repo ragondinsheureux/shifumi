@@ -1,5 +1,7 @@
 # Shifumi Cup
 
+![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/ragondin.png)
+
 L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire interagir les passants entre eux.
 
 **Désolé, le tutoriel n'est pas encore prêt !**
