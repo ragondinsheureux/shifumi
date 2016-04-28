@@ -103,8 +103,11 @@ En effet, il faut par exemple éviter les heures matinales où les gens se rende
 ## Ressources & matériel
 ### Feuilles de règles
 
-Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne connaissent pas. Par conséquent il est important d'expliquer brievement et clairement les règles sur une feuille ou une pancarte.
+Même si le jeu du Shifumi est très connu, il faut rester conscient que certaines personnes ne connaissent pas. 
+Par conséquent il est important d'expliquer brievement et clairement les règles sur une feuille ou une pancarte.
 Des mots simples, des dessins et le tour est joué !
+
+Si besoin, vous pouvez imprimer des petites feuilles avec les règles.
 
 ### Manifeste de l'action
 
@@ -113,6 +116,22 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 
 ![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/cartes_felicitations.jpg)
 
+### Matériels
+
+Le matériel indispensable pour vos actions :
+- signes distinctifs pour les organisateurs ( repérage dans la foule)
+- pancartes
+- craies
+Si possible : 
+- caméra / micro : pour saisir la réaction des personnes
+- flèches : pour susciter la curiosité des passants
+
+Afin de limiter les frais des actions, vous pouvez fabriquer vous mêmes certains accessoires. 
+Pour réaliser l'interview, il peut-être utile d'avoir un pupitre ou une table: rien de bien compliqué avec du carton récupéré ;-)
+De même vous voulez distribuer des petites surprises aux passants : pensez aux origamis, ou à des petits pliages.
+
+
+Pensez à des détails comme le vent, il peut rapidement devenir un paramètre ennuyant: consolidez vos pancartes !
 
 ## Aller plus loin : diffusion
 
