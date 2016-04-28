@@ -14,7 +14,9 @@ L'intervention Shifumi Cup est une action d'interaction citoyenne qui a pour obj
 - [Préparation](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#préparation)
 - [Définir le lieu et le moment](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#définir-le-lieu-et-le-moment)
 - [Ressources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#aller-plus-loin--diffusion)
-- [sources]()
+- [sources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#sources)
+
+
 ## Méthodes et organisation
 La Shifumi Cup s'organise en plusieurs temps :
  - La recherche des participants 
@@ -159,6 +161,18 @@ C'est parti ! A vous de jouer ;-)
 
 
 ## Sources 
-coucou
+
+Voici les sources que nous avons utilisées pour réaliser ce petit Tuto et qui nous ont inspiré dans notre travail :
+
+https://www.youtube.com/watch?v=GBaHPND2QJg : Flashmob en Espagne
+https://www.youtube.com/watch?v=316AzLYfAzw : Panic Button
+https://www.youtube.com/watch?v=SB_0vRnkeOk : Dancing traffic light
+https://www.youtube.com/watch?v=dInhX6ED15Y : Heineken Champion League
+
+Le groupe Improve EveryWhere
+
+
+
+
 
 
