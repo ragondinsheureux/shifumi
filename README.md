@@ -44,15 +44,12 @@ Fluidifier le discours en le préparant, investir l'espace de la ville pour s'an
 
 ### Partager les rôles
 
-Afin de s'organiser au mieux, il faut que les personnes qui s'organisent sachent quel est leur rôle et où ils doivent se positionner pour ne pas se gêner. 
-Pour cela, nous avons défini des rôles :
+Afin de s'organiser au mieux, il faut que les personnes qui organisent sachent quel est leur rôle et où ils doivent se positionner pour ne pas se gêner. 
+Pour cela, nous avons défini des rôles qui peuvent évoluer en fonction de l'activité :
 - L'arbitre est situé entre les deux participants et leur explique les règles. De plus c'est lui qui doit créer le lien entre les deux participants en les faisant se présenter mutuellement par leur prénom et un petit salut.
 - Les chasseurs: ils vont chercher les passants pour les faire participer au jeu. Il faut qu'ils arrivent à les interpeller suffisament pour que la personne accepte de jouer le jeu. 
-- Les deux ambianceurs se situent de part et d'autres du ring, afin de motiver les joueurs.
-- 
-
-Afin d'assurer le bon déroulement 
-
+- Les deux ambianceurs se situent de part et d'autre du ring, afin de motiver les joueurs. L'un d'eux conduit les passants vers le stand d'interview pour ne pas qu'ils repartent juste après le jeu sans connaître l'objectif de l'action.
+- Le cameraman qui gêre la stand avec les interviews : il filme les interviews que les deux inconnus font l'un de l'autre.
 
 ## Définir le lieu et le moment
 ### Trouver un endroit 
