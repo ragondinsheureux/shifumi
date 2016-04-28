@@ -14,7 +14,7 @@ L'intervention Shifumi Cup est une action d'interaction citoyenne qui a pour obj
 - [Préparation](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#préparation)
 - [Définir le lieu et le moment](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#définir-le-lieu-et-le-moment)
 - [Ressources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#aller-plus-loin--diffusion)
-
+- [sources]()
 ## Méthodes et organisation
 La Shifumi Cup s'organise en plusieurs temps :
  - La recherche des participants 
@@ -22,9 +22,10 @@ La Shifumi Cup s'organise en plusieurs temps :
  - Une invitation à échanger après la partie, sous la forme d'une interview croisée entre les deux opposants.
  
 Pour faciliter ces trois étapes, il convient de préparer un peu les choses.
- 
- 
-## Règles du jeu
+
+
+## Règles du jeu 
+
 Le Shifumi, ou pierre feuille ciseaux à des règles simples, que la plupart des gens connaissent déjà.
 Pour garder les choses faciles, nous utilisons les règles de bases : 
 > Pas de positions exotiques tel que "puit" ou "lézard" ;) !
@@ -152,4 +153,12 @@ Afin de voir l'impact de votre action sur les passants, nous vous conseillons de
 La diffusion permettra de donner une autre dimension à votre travail. 
 Pour cela, vous pouvez utiliser Youtube, Vine, Snapchat... : de nombreuses possibilités s'offrent à vous.
 
+
 C'est parti ! A vous de jouer ;-) 
+
+
+
+## Sources 
+coucou
+
+
