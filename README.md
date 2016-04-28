@@ -117,6 +117,7 @@ Pour diffuser au mieux votre action, n'hésitez pas à parler de vous sur les r�
 ### Twitter
 Twitter est un moyen simple et utile permettant de relayer rapidement les informations concernant votre action.
 Vous pouvez choisir un hastag ou utiliser le notre: #shifumiCup 
+
 N'hésitez pas à mentionner notre compte: @ragondinheureux
 
 ### Vidéo
