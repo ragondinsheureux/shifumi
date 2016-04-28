@@ -34,7 +34,7 @@ L'objectif du jeu est de créer une interaction amusante entre deux personnes qu
 
 ### Positions
 
-![Alt Text](https://github.com/ragondinsheureux/shifumi/master/images/positions_shifumi.jpeg)
+![Alt Text](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/positions_shifumi.jpg)
 
 Pour jouer au Shifumi Il y a trois possibilités : 
 Pierre
