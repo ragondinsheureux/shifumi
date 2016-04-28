@@ -4,7 +4,7 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 
 ## Sommaire
 
-- Méthode et organisation
+- [Méthode et organisation](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#méthodes-et-organisation)
 - Règles du jeu 
 - Préparation
 - Définir le lieu et le moment 
