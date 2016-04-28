@@ -70,6 +70,7 @@ Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra 
 
 > Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi. Les participants ont fait une intoxication alimentaire: On a besoin de vous pour les remplacer.”
 
+L'instauration d'un rituel pour le match permet de mettre à l'aise les participants et renforce l'aspect décalé de la performance.
 
 ### Partager les rôles
 
