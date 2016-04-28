@@ -1,6 +1,6 @@
 # Shifumi Cup
 
-L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire intéragir les passants entre eux.
+L'intervention shifumi cup est une action d'interaction citoyenne qui a pour objectif de faire interagir les passants entre eux.
 
 **Désolé, le tutoriel n'est pas encore prêt !**
 
@@ -13,13 +13,26 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 - [Ressources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#aller-plus-loin--diffusion)
 
 ## Méthodes et organisation
-L'intervention de la Shifumi Cup s'organise en plusieurs temps :
+La Shifumi Cup s'organise en plusieurs temps :
  - La recherche des participants 
  - Un match, qui prend place sur un "ring" mis en place pour l'occasion.
- - Une invitation a échanger après la partie, sous la forme d'un interview croisée entre les deux opposants.
+ - Une invitation à échanger après la partie, sous la forme d'un interview croisée entre les deux opposants.
+ 
+Pour faciliter ces trois étapes, il convient de préparer un peu les choses.
+ 
  
 ## Régles du jeu
-Le shifumi, ou pierre feuille ciseaux à des règles simple 
+Le shifumi, ou pierre feuille ciseaux à des règles très simples, que la plupart des gens connaissent déjà.
+Pour garder les choses faciles, nous utilisons les règles de bases : 
+> Pas de positions exotique tel que "puit" ou "lézard" ;) !
+
+### Objectif du jeu
+
+
+
+### Positions
+
+
 ## Préparation
 
 Pour faciliter le déroulement et le succès de l'intervention, il est nécessaire de se préparer un petit peu !
