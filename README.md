@@ -168,8 +168,7 @@ Voici les sources que nous avons utilisées pour réaliser ce petit Tuto et qui 
 - https://www.youtube.com/watch?v=316AzLYfAzw : Panic Button
 - https://www.youtube.com/watch?v=SB_0vRnkeOk : Dancing traffic light
 - https://www.youtube.com/watch?v=dInhX6ED15Y : Heineken Champion League
-
-Le groupe Improve EveryWhere
+- Le groupe Improve EveryWhere
 
 
 
