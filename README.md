@@ -64,6 +64,7 @@ Une installation physique permet de fixer une zone et d'éviter de s'éparpiller
 
 Pour attirer le plus de monde possible et créer un maximum d’interactions, une histoire et un discours bien rodés sont nécessaires. 
 Une brève histoire d’accroche, assez décalée mais pas trop, vous permettra de plonger les passants dans l’univers de votre action.
+
 > Dans notre cas par exemple du championnat de Shifumi : “On a organisé un championnat de Shifumi. Les participants ont fait une intoxication alimentaire: On a besoin de vous pour les remplacer.”
 
 
@@ -97,6 +98,7 @@ Pour conclure, un endroit neutre de la ville avec beaucoup de passage sera votre
 
 Afin de viser un maximum de personnes sans trop gêner le passage, il faut penser à l'horaire de l'action. 
 Selon la période de la journée, les gens sont plus ou moins réceptifs aux actions qui vont les prendre à partie.
+
 En effet, il faut par exemple éviter les heures matinales où les gens se rendent sur leur lieu de travail : ils seront préoccupés à l'idée d'arriver en retard.
 
 ## Ressources & matériel
@@ -116,6 +118,11 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 ![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/cartes_felicitations.jpg)
 > Vous pouvez télécharger notre version dans la partie source de ce tuto
 
+Notre carte comporte un lien vers la page du projet, 
+permettant d'accéder à des informations plus complètes.
+
+Nous fournirons prochainement un modèle de page plus détaillé à propos de la démarche.
+
 ### Matériels
 
 Le matériel indispensable pour vos actions :
@@ -123,17 +130,21 @@ Le matériel indispensable pour vos actions :
 
 > Nous avons utilisé des Bandeaux rouges pour les Ragondins Heureux (mal nous en a pris, période de manif!) :)
 
-- pancartes
-- craies
+- Pancarte présentant l'évènement
+- Craies (marquage au sol)
+- Feuilles de règles et/ou pancarte de résumé afin de faciliter la compréhension. 
 
 Si possible : 
+
 - caméra / micro : pour saisir la réaction des personnes
 - flèches : pour susciter la curiosité des passants
 
 Afin de limiter les frais des actions, vous pouvez fabriquer vous mêmes certains accessoires. 
-Pour réaliser l'interview, il peut-être utile d'avoir un pupitre ou une table: rien de bien compliqué avec du carton récupéré ;-)
-De même si vous voulez distribuer des petites surprises aux passants : pensez aux origamis, ou à des petits pliages.
-> Des patrons sont disponible dans la partie [sources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#sources) de cette page
+
+- Pour réaliser l'interview, il peut-être utile d'avoir un pupitre ou une table : rien de bien compliqué avec du carton récupéré ;-)
+
+- De même si vous voulez distribuer des petites surprises aux passants : pensez aux origamis, ou à des petits pliages.
+ > Des patrons sont disponible dans la partie [sources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#sources) de cette page
 
 Pensez à des détails comme le vent, il peut rapidement devenir un paramètre ennuyant: consolidez vos pancartes !
 
@@ -143,26 +154,27 @@ Pour diffuser au mieux votre action, n'hésitez pas à parler de vous sur les r�
 
 ### Twitter
 Twitter est un moyen simple et utile permettant de relayer rapidement les informations concernant votre action.
-Vous pouvez choisir un hastag ou utiliser le notre: #shifumiCup 
+Vous pouvez choisir un hastag ou utiliser le suivant: #shifumiCup 
 
-N'hésitez pas à mentionner notre compte: @ragondinheureux
+N'hésitez pas à mentionner notre compte: @ragondinheureux que l'on puisse facilement voir vos actions
 
 ### Vidéo
 
 Afin de voir l'impact de votre action sur les passants, nous vous conseillons de filmer votre travail avec les passants. 
 La diffusion permettra de donner une autre dimension à votre travail. 
-Pour cela, vous pouvez utiliser Youtube, Vine, Snapchat... : de nombreuses possibilités s'offrent à vous.
+Pour cela, vous pouvez utiliser Youtube, Vine, Snapchat... De nombreuses possibilités s'offrent à vous !
 
 C'est parti ! A vous de jouer ;-) 
 
 ## Sources 
 
 Quelques élements que vous pouvez réutiliser : 
- - Carte de félicitations 
- - Patron d'origami (voir le tuto) + photo
- - Feuille de règles
+ 
+ - [Carte de félicitations]() 
+ - [Patron d'origami]() ([voir le tuto]())
+ - [Feuille de règles]()
 
-Voici les sources qui nous ont inspiré dans notre travail :
+Voici quelques sources qui nous ont inspiré pour ce projet :
 
 - [Flashmob en Espagne](https://www.youtube.com/watch?v=GBaHPND2QJg)
 - [Panic Button](https://www.youtube.com/watch?v=316AzLYfAzw)
