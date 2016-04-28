@@ -17,13 +17,16 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 ## Régles du jeu
 
 ## Préparation
+
+Pour faciliter le déroulement et le succès de l'intervention, il est nécessaire de se préparer un petit peu !
+Fluidifier le discour en le préparant, investir l'espace de la ville pour s'ancrer dans le physique 
 ### S'inscrire dans l'espace
 ### Préparer le discour
 ### Partager les rôles
 
 ## Définir le lieu et le moment
 ### Trouver un endroit 
-### Décider de l'heure du crime
+### Heure du crime
 
 ## Ressources & matériel
 ### Feuilles de règles
