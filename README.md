@@ -45,7 +45,7 @@ Pour jouer au Shifumi Il y a trois possibilités :
 - Feuille 
 - Ciseaux 
 
-Comme on peut le voir sur cette photo la pierre bat les ciseaux qui coupent la feuille et qui emrobent la pierre. 
+Comme on peut le voir sur cette photo la pierre bat les ciseaux qui coupent la feuille et qui enrobent la pierre. 
 
 ## Préparation
 
