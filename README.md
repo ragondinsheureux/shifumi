@@ -4,7 +4,7 @@
 
 L'intervention "Shifumi Cup" est une action qui a pour objectif de faire interagir les passants entre eux : faire tomber les inhibitions et donner un prétexte aux participants pour s'ouvrir aux autres, à l'occasion d'un évènement informel. 
 
-> Si vous trouvez une coquille, souhaitez proposer une amélioration ou tout simplement participer, n'hésitez pas à utiliser les *"issue"* ou même à faire un *"pull request"* !
+> Si vous trouvez une coquille, souhaitez proposer une amélioration ou tout simplement participer, n'hésitez pas à utiliser les *"issues"* ou même à faire un *"pull request"* !
 
 Page du projet : [ragondinsheureux.github.io](https://ragondinsheureux.github.io)
 
