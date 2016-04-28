@@ -173,9 +173,10 @@ C'est parti ! A vous de jouer ;-)
 
 Quelques élements que vous pouvez réutiliser : 
  
- - [Carte de félicitations]() 
+ - [Carte de félicitations](https://github.com/ragondinsheureux/shifumi/raw/master/ressources/carteFelicitation.pdf) 
  - [Patron d'origami](https://github.com/ragondinsheureux/shifumi/raw/master/ressources/fleur-ragondin.pdf)
  - [Feuille de règles (bientôt)]()
+ - [Questions pour interview croisé](https://github.com/ragondinsheureux/shifumi/raw/master/ressources/QuestionInterviewCroise.pdf)  
 
 Voici quelques sources qui nous ont inspiré pour ce projet :
 
