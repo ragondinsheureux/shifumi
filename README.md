@@ -112,8 +112,9 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 Pour diffuser au mieux votre action, n'hésitez pas à parler de vous sur les réseaux sociaux tels que Facebook, Twitter,...
 
 ### Twitter
-
-Retrouvez-nous les Ragondins Heureux : @ragondinheureux
+Twitter est un moyen simple et utile permettant de relayer rapidement les informations concernant votre action.
+Vous pouvez choisir un hastag ou utiliser le notre: #shifumiCup 
+N'hésitez pas à mentionner notre compte: @ragondinheureux
 
 ### Vidéo
 
