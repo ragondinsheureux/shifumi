@@ -13,16 +13,25 @@ L'intervention shifumi cup est une action d'interaction citoyenne qui a pour obj
 - [Ressources](https://github.com/ragondinsheureux/shifumi/blob/master/README.md#aller-plus-loin--diffusion)
 
 ## Méthodes et organisation
-
+L'intervention de la Shifumi Cup s'organise en plusieurs temps :
+ - La recherche des participants 
+ - Un match, qui prend place sur un "ring" mis en place pour l'occasion.
+ - Une invitation a échanger après la partie, sous la forme d'un interview croisée entre les deux opposants.
+ 
 ## Régles du jeu
-
+Le shifumi, ou pierre feuille ciseaux à des règles simple 
 ## Préparation
 
 Pour faciliter le déroulement et le succès de l'intervention, il est nécessaire de se préparer un petit peu !
-Fluidifier le discour en le préparant, investir l'espace de la ville pour s'ancrer dans le physique 
+Fluidifier le discours en le préparant, investir l'espace de la ville pour s'ancrer dans le physique 
 ### S'inscrire dans l'espace
-### Préparer le discour
+
+### Préparer le discours
+
 ### Partager les rôles
+
+Afin d'assurer le bon déroulement 
+
 
 ## Définir le lieu et le moment
 ### Trouver un endroit 
