@@ -164,10 +164,10 @@ C'est parti ! A vous de jouer ;-)
 
 Voici les sources que nous avons utilisées pour réaliser ce petit Tuto et qui nous ont inspiré dans notre travail :
 
-- https://www.youtube.com/watch?v=GBaHPND2QJg : Flashmob en Espagne
-- https://www.youtube.com/watch?v=316AzLYfAzw : Panic Button
-- https://www.youtube.com/watch?v=SB_0vRnkeOk : Dancing traffic light
-- https://www.youtube.com/watch?v=dInhX6ED15Y : Heineken Champion League
+- [Flashmob en Espagne](https://www.youtube.com/watch?v=GBaHPND2QJg)
+- [Panic Button](https://www.youtube.com/watch?v=316AzLYfAzw)
+- [Dancing traffic light](https://www.youtube.com/watch?v=SB_0vRnkeOk) 
+- [Heineken Champion League](https://www.youtube.com/watch?v=dInhX6ED15Y) 
 - Le groupe Improve EveryWhere
 
 
