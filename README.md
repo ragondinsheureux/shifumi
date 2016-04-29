@@ -126,6 +126,8 @@ Dans notre cas, nous avons donné à chaque participant la petite carte suivante
 Notre carte comporte un lien vers la page du projet, 
 permettant d'accéder à des informations plus complètes.
 
+![ragondins](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/fleurOrigami.jpg)
+
 Nous fournirons prochainement un modèle de page plus détaillé à propos de la démarche.
 
 ### Matériels
