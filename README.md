@@ -44,6 +44,7 @@ Par interaction nous entendons un échange de mots, de sourires, et d'un bon mom
 ![Alt Text](https://raw.githubusercontent.com/ragondinsheureux/shifumi/master/images/positions_shifumi.jpg)
 
 Pour jouer au Shifumi Il y a trois possibilités : 
+
 - Pierre
 - Feuille 
 - Ciseaux 
